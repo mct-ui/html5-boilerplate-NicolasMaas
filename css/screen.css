@@ -12,6 +12,11 @@ html {
     padding: 48px 24px 24px;
 }
 
+body {
+    max-width: 42em;
+    margin: 0 auto;
+}
+
 ::-moz-selection {
     background: #E85E00;
     color: white;
